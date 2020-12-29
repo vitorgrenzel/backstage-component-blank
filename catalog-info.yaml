@@ -7,5 +7,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: viavarejo-internal/viaops
-  consumesApis:
+  implementsApis:
     - petstore
