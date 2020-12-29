@@ -8,6 +8,6 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: viaops-internal/viaops
+  owner: vitorgrenzel
   implementsApis:
     - petstore
