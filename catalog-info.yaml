@@ -10,5 +10,3 @@ spec:
   type: service
   lifecycle: experimental
   owner: developer-experience
-  providesApis:
-    - $text: https://petstore.swagger.io/v2/swagger.json
