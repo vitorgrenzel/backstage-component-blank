@@ -7,5 +7,5 @@ spec:
   type: service
   lifecycle: experimental
   owner: team-c
-  providesApis:
+  consumesApis:
     - petstore
