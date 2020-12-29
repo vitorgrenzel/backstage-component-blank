@@ -1,4 +1,4 @@
-apiVersion: backstagepetstore
+apiVersion: backstage-component-blank
 kind: API
 metadata:
   name: petstore
