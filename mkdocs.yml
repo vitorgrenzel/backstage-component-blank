@@ -1,0 +1,12 @@
+site_name: 'example-docs'
+
+nav:
+  - Home: index.md
+
+metadata:
+  annotations:
+    backstage.io/techdocs-ref: dir:./
+    
+plugins:
+  - techdocs-core
+
