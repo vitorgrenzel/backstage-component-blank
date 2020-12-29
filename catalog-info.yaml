@@ -6,6 +6,6 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: viaops
+  owner: viaops-internal/viaops
   implementsApis:
     - petstore
