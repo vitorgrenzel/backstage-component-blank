@@ -1,4 +1,5 @@
-site_name: 'example-docs'
+site_name: 'petstore'
+site_description: 'Main documentation for Backstage features and platform APIs'
 
 nav:
   - Home: index.md
@@ -6,7 +7,7 @@ nav:
 metadata:
   annotations:
     backstage.io/techdocs-ref: dir:./
-    
+
 plugins:
   - techdocs-core
 
