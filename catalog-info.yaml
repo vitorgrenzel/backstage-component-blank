@@ -4,6 +4,7 @@ metadata:
   name: petstore
   description: Petstore
   annotations:
+    github.com/project-slug: vitorgrenzel/backstage-component-blank
     backstage.io/techdocs-ref: url:https://github.com/vitorgrenzel/backstage-component-blank/tree/master
 spec:
   type: service
