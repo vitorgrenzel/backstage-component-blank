@@ -4,10 +4,10 @@ metadata:
   name: petstore
   description: Petstore
   annotations:
-    backstage.io/techdocs-ref: dir:./
+    backstage.io/techdocs-ref: url:https://github.com/vitorgrenzel/backstage-component-blank/tree/master
 spec:
   type: service
   lifecycle: experimental
-  owner: user:vitorgrenzel
+  owner: vitorgrenzel
   implementsApis:
     - petstore
