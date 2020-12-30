@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: petstore
-  description: Petstore
+  name: backstage-component-blank
+  description: Backstage-component-blank
   annotations:
     github.com/project-slug: vitorgrenzel/backstage-component-blank
     backstage.io/techdocs-ref: url:https://github.com/vitorgrenzel/backstage-component-blank/tree/master
@@ -10,5 +10,3 @@ spec:
   type: service
   lifecycle: experimental
   owner: vitorgrenzel
-  implementsApis:
-    - petstore
