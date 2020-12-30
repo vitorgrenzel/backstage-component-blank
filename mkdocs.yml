@@ -1,13 +1,8 @@
 site_name: 'petstore'
 site_description: 'Main documentation for Backstage features and platform APIs'
 
-nav:
-  - Home: index.md
-
-metadata:
-  annotations:
-    backstage.io/techdocs-ref: dir:./
-
 plugins:
   - techdocs-core
-
+  
+nav:
+  - Home: index.md
